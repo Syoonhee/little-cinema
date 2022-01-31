@@ -12,5 +12,10 @@
 - Tomcat 9.0
 - Oracle
 - Maven
+- HTML/CSS
+- JavaScript
+- JQuery
+- Ajax
+- Bootstrap
 
 
